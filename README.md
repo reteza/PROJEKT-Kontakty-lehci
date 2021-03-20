@@ -1,6 +1,6 @@
 # Kontakty (jednodušší varianta)
 
-Dobrovolný kol pro kurz Staň se kóderkou od Czechitas. Když ho odevzdáš, koučové ti k němu napíšou zpětnou vazbu. Toto je standardní varianta úkolu, více se dozvíš v sekci Obtížnosti úkolu.
+Dobrovolný kol pro kurz Staň se kóderkou od Czechitas. Když ho odevzdáš, koučové ti k němu napíšou zpětnou vazbu. Toto je lehčí varianta úkolu, více se dozvíš v sekci Obtížnosti úkolu.
 
 - [Cíl úkolu](#Cíl-úkolu)
 - [Grafické zadání](#Grafické-zadání)
