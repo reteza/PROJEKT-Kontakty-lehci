@@ -1,6 +1,6 @@
 # Kontakty (jednodušší varianta)
 
-Dobrovolný kol pro kurz Staň se kóderkou od Czechitas. Když ho odevzdáš, koučové ti k němu napíšou zpětnou vazbu. Toto je lehčí varianta úkolu, více se dozvíš v sekci Obtížnosti úkolu.
+Dobrovolný úkol pro kurz Staň se kóderkou od Czechitas. Když ho odevzdáš, koučové ti k němu napíšou zpětnou vazbu. Toto je lehčí varianta úkolu, více se dozvíš v sekci Obtížnosti úkolu.
 
 - [Cíl úkolu](#Cíl-úkolu)
 - [Grafické zadání](#Grafické-zadání)
@@ -42,7 +42,7 @@ Kde jsou jednotlivé breakpointy najdeš i v komentáři v souboru *style.css*.
 
 ## Obtížnosti úkolu
 
-Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento repozitář obsahuje výchozí **standardní úroveň obtížnosti**. Pokud máš méně času nebo s úkolem hodně bojuješ, můžeš zkusit lehčí variantu úkolu.
+Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento repozitář obsahuje **lehčí úroveň obtížnosti**. Doporučuji nejprve zkusit standardní obtížnost.
 
 ### Lehčí obtížnost
 - obsažená v tomto repozitáři
