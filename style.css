@@ -6,12 +6,74 @@ body {
 	font-family: sans-serif;
 	font-size: 14px;
 }
+h1{
+	text-align: center;
+}
 
+img{
+	border-radius: 50%;
+	width: 50%;
+}
+.osoba{
+	
+	border: 2px solid;
+	border-radius: 1.5%;
+	border-color: lightgrey;
+	text-align: center;
+	margin: 0.5%;
+	padding: 1%;
+}
+
+@media screen and (max-width: 539px){
+	.tym{
+		flex-direction: column;
+}
+
+}
+@media screen and (min-width: 540px){
+	.tym{
+		flex-direction: row;
+		flex-wrap: wrap;
+		flex: 0 0 50%;
+	}
+	.osoba{
+		display:flex;
+		flex-direction: row;
+	}
+	
+	.img{
+		display: flex;
+		flex-direction: column;
+		width: 50%;
+	}
+}
+@media screen and (min-width: 960px){
+	.tym{
+		flex-direction: row;
+		flex: 1 1 20%;
+	}
+	.osoba{
+	padding: 2px;
+	flex-direction: column;
+	flex: 0 0 calc(100% / 4)
+}
+	
+}
 /* ---------------------------------------------------- */
 
 /*
 Breakpointy
 Mobil   0 - 539px
 Tablet  540px - 959px (čti jako 540px a víc)
-PC      960px a víc
-*/
+PC      960px a víc     */
+
+
+
+
+
+
+
+
+
+
+
